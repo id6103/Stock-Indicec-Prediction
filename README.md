@@ -1,5 +1,6 @@
 # 30-Dow-Jones-Price-Prediction
 This is coursework for INF 385T Introduction to Machine Learning
+
 [Paper](https://jiachaof.github.io/paper/stock.pdf)
 [Video](https://www.dropbox.com/s/y07sdlqba7ax0vn/ML.mp4?dl=0)
 
